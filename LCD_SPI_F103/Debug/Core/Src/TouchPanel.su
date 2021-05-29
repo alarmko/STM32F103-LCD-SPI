@@ -1,0 +1,10 @@
+TouchPanel.c:39:6:TP_Init	4	static
+TouchPanel.c:51:6:DelayUS	24	static
+TouchPanel.c:67:13:WR_CMD	16	static
+TouchPanel.c:81:17:RD_AD	16	static
+TouchPanel.c:101:10:Read_X	16	static
+TouchPanel.c:123:10:Read_Y	16	static
+TouchPanel.c:146:6:TP_GetXY	24	static
+TouchPanel.c:165:8:Read_XPT2046	104	static
+TouchPanel.c:240:6:Touch_Calibre	32	static
+TouchPanel.c:288:5:GetTouchStatus	24	static
